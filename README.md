@@ -1,4 +1,13 @@
-## Hi there 👋
+## Halo semua !
+
+Perkenalkan nama saya **Beby Schalke Efrian Nugraha**. <br>
+
+Saya seorang siswa Jurusan **SIJA** yang bersekolah di **SMKN 1 GEDANGAN** [SMK NEGA](https://smkn1gedangan-malang.sch.id/). <br>
+
+Saya selalu belajar Coding dalam waktu luang, saya juga senang bermusik, anime, game.
+
+Jika kamu tertarik untuk lebih mengenalku, silahkan ikuti aku di [Instagram](https://www.instagram.com/destraxion/).
+
 
 <!--
 **desxtra/desxtra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
