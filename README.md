@@ -1,25 +1,28 @@
-## Halo semua !
+## 💻 **Skills & Expertise** �  
 
-Perkenalkan nama saya **Beby Schalke Efrian Nugraha**. <br>
+Hey there! I’m **Beby Schalke Efrian Nugraha**, and I’m all about **coding** and **tech**. Here’s a quick rundown of what I’m good at:  
 
-Saya seorang siswa Jurusan **SIJA** yang bersekolah di **SMKN 1 GEDANGAN** [SMK NEGA](https://smkn1gedangan-malang.sch.id/). <br>
+### **Programming Languages**  
+- **Python** 🐍: Proficient in scripting, automation, and data analysis.  
+- **JavaScript** 🌐: Experienced in building interactive web applications.  
+- **HTML/CSS** 🎨: Skilled in creating responsive and visually appealing websites.  
 
-Saya selalu belajar Coding dalam waktu luang, saya juga senang bermusik, anime, game.
+### **Frameworks & Tools**  
+- **React.js** ⚛️: Building dynamic and scalable front-end applications.  
+- **Node.js** 🟢: Developing server-side applications and APIs.  
+- **Git & GitHub** 🔄: Version control and collaborative coding.  
 
-Jika kamu tertarik untuk lebih mengenalku, silahkan ikuti aku di [Instagram](https://www.instagram.com/destraxion/).
+### **Other Skills**  
+- **UI/UX Design** ✏️: Crafting user-friendly interfaces with tools like Figma.  
+- **Database Management** 🗄️: Working with SQL and NoSQL databases like MySQL and MongoDB.  
+- **Problem Solving** 🧠: Strong analytical skills to tackle complex coding challenges.  
 
+---
 
-<!--
-**desxtra/desxtra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### **What I’m Currently Learning**  
+- **Cloud Computing with AWS** ☁️: Exploring cloud infrastructure, serverless architecture, and AWS services like EC2, S3, and Lambda.  
+- **Machine Learning** 🤖: Diving into AI and data science with Python.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Let’s build something awesome together! 🚀✨
