@@ -1,4 +1,4 @@
-## 💻 **Skills & Expertise** �  
+## 💻 **Skills & Expertise** 🏆
 
 Hey there! I’m **Beby Schalke Efrian Nugraha**, and I’m all about **coding** and **tech**. Here’s a quick rundown of what I’m good at:  
 
