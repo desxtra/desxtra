@@ -1,4 +1,4 @@
-## 💻 **Skills & Expertise** 🏆
+## 💻 **Skills & Expertise** 🚀  
 
 Hey there! I’m **Beby Schalke Efrian Nugraha**, and I’m all about **coding** and **tech**. Here’s a quick rundown of what I’m good at:  
 
@@ -8,20 +8,20 @@ Hey there! I’m **Beby Schalke Efrian Nugraha**, and I’m all about **coding**
 - **HTML/CSS** 🎨: Skilled in creating responsive and visually appealing websites.  
 
 ### **Frameworks & Tools**  
-- **React.js** ⚛️: Building dynamic and scalable front-end applications.  
+- **Cloud Computing with AWS** ☁️: Building scalable and efficient cloud infrastructure using services like EC2, S3, Lambda, and RDS.  
 - **Node.js** 🟢: Developing server-side applications and APIs.  
 - **Git & GitHub** 🔄: Version control and collaborative coding.  
 
 ### **Other Skills**  
-- **UI/UX Design** ✏️: Crafting user-friendly interfaces with tools like Figma.  
+- **Cloud Computing with AWS** ☁️: Designing and managing cloud-based solutions, including serverless architecture and cloud security.  
 - **Database Management** 🗄️: Working with SQL and NoSQL databases like MySQL and MongoDB.  
 - **Problem Solving** 🧠: Strong analytical skills to tackle complex coding challenges.  
 
 ---
 
 ### **What I’m Currently Learning**  
-- **Cloud Computing with AWS** ☁️: Exploring cloud infrastructure, serverless architecture, and AWS services like EC2, S3, and Lambda.  
-- **Machine Learning** 🤖: Diving into AI and data science with Python.  
+- **Advanced Cloud Computing with AWS** ☁️: Deep diving into AWS services like Elastic Beanstalk, CloudFormation, and DevOps tools.  
+- **Machine Learning** 🤖: Exploring AI and data science with Python.  
 
 ---
 
