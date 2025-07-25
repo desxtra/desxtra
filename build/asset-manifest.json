@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/desxtra/static/css/main.cf890fdb.css",
+    "main.js": "/desxtra/static/js/main.a26bf5ef.js",
+    "index.html": "/desxtra/index.html",
+    "main.cf890fdb.css.map": "/desxtra/static/css/main.cf890fdb.css.map",
+    "main.a26bf5ef.js.map": "/desxtra/static/js/main.a26bf5ef.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf890fdb.css",
+    "static/js/main.a26bf5ef.js"
+  ]
+}
