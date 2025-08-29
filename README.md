@@ -30,5 +30,5 @@ I'm **Beby Schalke Efrian Nugraha**, a developer focused on clean code, cloud ar
 ---
 
 ## 📚 Currently Exploring
-- Advanced AWS DevOps & automation tools  
-- Machine Learning with Python
+- Cloud Computing & Cloud Architecture, Infrastructure
+- Modern Javascript frameworks to build a web app
