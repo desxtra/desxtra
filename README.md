@@ -3,6 +3,7 @@
 I'm **Beby Schalke Efrian Nugraha**, a developer focused on clean code, cloud architecture, and scalable web apps.
 
 Visit my Portfolios: https://strata.my.id
+Credly: https://www.credly.com/users/beby-schalke
 
 ### 🚀 Languages & Tools  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
