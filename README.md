@@ -1,4 +1,4 @@
-# Hello, I'm Beby Schalke Efrian Nugraha 👋
+# Hello, I'm Beby Schalke Efrian Nugraha
 
 I'm a cloud-focused developer with expertise in AWS architecture and a growing interest in scalable web applications. My primary strength lies in designing and implementing cloud infrastructure solutions, with hands-on experience in AWS services and infrastructure as code. While I'm expanding my skills into full-stack development, my core passion remains in building robust, efficient cloud systems that form the foundation for modern applications.
 
