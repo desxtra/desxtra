@@ -22,14 +22,10 @@ Credly: https://www.credly.com/users/beby-schalke
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
 <img src="https://github-readme-stats.vercel.app/api?username=desxtra&show_icons=true&theme=tokyonight" width="48%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=desxtra&theme=tokyonight" width="48%" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=desxtra&layout=compact&theme=tokyonight" width="48%" />
-
-</div>
 
 ---
 
