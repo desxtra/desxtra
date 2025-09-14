@@ -40,7 +40,6 @@ I'm a cloud-focused developer with expertise in AWS architecture and a growing i
 | | |
 | :---: | :---: |
 | [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=desxtra&show_icons=true&theme=tokyonight)](https://github.com/desxtra) | [![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=desxtra&theme=tokyonight)](https://github.com/desxtra) |
-|
 
 ## Currently Exploring 📚
 
