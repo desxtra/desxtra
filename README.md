@@ -63,4 +63,4 @@ When I'm not coding, I enjoy:
 
 ---
 
-*Last updated: August 2025*
+*Last updated: September 2025*
